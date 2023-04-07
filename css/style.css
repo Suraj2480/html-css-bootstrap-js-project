@@ -497,3 +497,10 @@ input.form-control {
     box-shadow: none;
     border-color: var(--brand);
 }
+
+
+
+.lavkesh{
+    /* border:1px solid red; */
+    height: 480px;
+}
